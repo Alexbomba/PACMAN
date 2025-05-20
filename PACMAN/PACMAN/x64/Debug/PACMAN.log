@@ -1,0 +1,3 @@
+﻿  PACMAN.cpp
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\PACMAN\PACMAN.cpp(41,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PACMAN.vcxproj -> C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\PACMAN\x64\Debug\PACMAN.exe
